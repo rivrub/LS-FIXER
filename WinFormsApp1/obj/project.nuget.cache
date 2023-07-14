@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7u4V92856xkOPTPAx+gsPs/KH6VMAtuDi2SjldGQT31lnayqtk+AfxKKkkXsk2KNP+bv4M7I24cbx9wvY2Bh1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Desktop\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.management\\7.0.2\\system.management.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
